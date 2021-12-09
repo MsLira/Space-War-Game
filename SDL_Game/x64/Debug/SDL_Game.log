@@ -1,0 +1,29 @@
+﻿  bullet.cpp
+C:\Users\Miriam\Desktop\MLiraCPPA3_10\SDL_Game\SDL_Game\bullet.cpp(27,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_10\SDL_Game\SDL_Game\bullet.cpp(28,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_10\SDL_Game\SDL_Game\bullet.cpp(44,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_10\SDL_Game\SDL_Game\bullet.cpp(45,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_10\SDL_Game\SDL_Game\bullet.cpp(60,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  enemy.cpp
+C:\Users\Miriam\Desktop\MLiraCPPA3_10\SDL_Game\SDL_Game\enemy.cpp(28,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_10\SDL_Game\SDL_Game\enemy.cpp(35,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_10\SDL_Game\SDL_Game\enemy.cpp(36,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+C:\Users\Miriam\Desktop\MLiraCPPA3_10\SDL_Game\SDL_Game\main.cpp(30,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Miriam\Desktop\MLiraCPPA3_10\SDL_Game\SDL_Game\main.cpp(60,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_10\SDL_Game\SDL_Game\main.cpp(68,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_10\SDL_Game\SDL_Game\main.cpp(222,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_10\SDL_Game\SDL_Game\main.cpp(222,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_10\SDL_Game\SDL_Game\main.cpp(581,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_10\SDL_Game\SDL_Game\main.cpp(899,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  pickup.cpp
+C:\Users\Miriam\Desktop\MLiraCPPA3_10\SDL_Game\SDL_Game\pickup.cpp(9,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_10\SDL_Game\SDL_Game\pickup.cpp(43,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_10\SDL_Game\SDL_Game\pickup.cpp(44,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_10\SDL_Game\SDL_Game\pickup.cpp(58,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_10\SDL_Game\SDL_Game\pickup.cpp(59,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_10\SDL_Game\SDL_Game\pickup.cpp(72,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_10\SDL_Game\SDL_Game\pickup.cpp(73,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_10\SDL_Game\SDL_Game\pickup.cpp(75,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  SDL_Game.vcxproj -> C:\Users\Miriam\Desktop\MLiraCPPA3_10\SDL_Game\x64\Debug\SDL_Game.exe
